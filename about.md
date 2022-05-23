@@ -5,48 +5,38 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Fitshare is a start up aimed at disrupting the overly technical approach to 
+tools used in the health and fitness industry. A lot of tools that are available
+are very flashy and complicated, but they don't get people excited about their
+fitness. We're here to change that.
 
-## Ne verba patulosque numen vix libet
+## Our Vision
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+We want to see a world where people are excited to exercise and participate in their
+own fitness journey. They can only do this if they're engaged and informed. Fitshare
+strives for a simple approach that allows you to give your clients all the information
+they need with as little fuss as possible. This allows your clients to focus on their
+health instead of using an app.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Our Mission
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Fitness sharing, made easy. You shouldn't need an IT degree to share information with
+your clients. That's why our mission is to provide the simplest platform for sharing
+fitness-related information with your clients and keeping your time on non-core work
+to a minimum.
 
-## Postquam tamen
+## Our Pillars
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+### Simplicity
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+It should only ever take five minutes to create a plan.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+### Enablement
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Time spent on tech issues is time not spent with your clients. We're here to enable
+you to work with your clients as much as possible.
+
+### Transparency.
+
+We're not here to hide fitness from clients. We make the process of sharing transparent
+so your client remains a vital part of their own fitness journey.
